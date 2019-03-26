@@ -1,75 +1,20 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Welcome to Your Own Project!
+# Project 4
 
-## Project Goals
-* Do the e2e analysis by your own.
-* Give some insights about a topic of your choice giving some arguments by:
-  * Being able to transmit the analysis in an ordered way.
-  * Using the statistical techniques learnt during the last weeks.
-  * Plotting the graphs in a useful way for the reader / listener. Yes, no additional rules Jordi.
-* Present your analysis in two ways and for two different audiencies:
-  * Technical audience: you will present a paper.
-  * Non tech audience: you will do a short presentation.
+The topic of my project is the threatened/endangered animal species of all over the world.
+The goal is to study and analyze how we humans are extinguishing entire species of animals that have been around for millions of years (much more than us).
 
+-Which species are the most threatened?
+-How have their number evolved during the last years?
+-Which have already been extincted?
+-What can we humans do to stop this extermination?
+-Which endangered species have lately increased their number and why?
+-Which are the countries with more threatened species?
 
-## Deliverables
-* A notebook with your analysis in a paper way. Jupyter or Zeppelin are allowed.
-* A 3' presentation in the auditorium.
-* Repository with your workflow + documentation + code. Even if you are working alone, you need to keep good practices!
+I will try to answer not only these but also many other questions regarding this issue, and make everyone who sees my presentation aware of it.
 
-## The presentation
-* In the auditorium.
-* 3 minutes talk, 2 minutes questions. No more. Yeah, exactly.
-* The audience will evaluate their understanding on your presentation (this will help you in further presentations).
-
-## General schedule
-*Today*
-* Think on a topic and propose some questions. 
-* Choose the data interesting. 
-* Look for documentation to give context to your project.
-* Write the README file in your repository.
-
-*Tuesday*
-* Teachers validation --NO CODE UNTIL HERE--
-
-*Tuesday-Wednesday*
-* Start importing the data and cleaning it.
-* Start the analysis. Remember all the techniques you have learnt.
-* Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
-
-*Thursday*
-* First rehearshall. Take the feedback and use it!
-
-*Thursday - Next Tuesday*
-* Finish the analysis. Finish the slides.
-
-*Tuesday*
-* General rehearshall.
-
-*Tuesday - Wednesday*
-* Last improvements.
-
-*Wednesday*
-* Presentation!
-
-## General advices
-* Organize yourself (don't get lost!).
-* Ask for help vs Google is your friend.
-* Define a simple approach first. You never know how the data can betray you ;)
-* Documentate yourself. Know about the problem. Look for some analysis that someone did before you.
-* You *can* use the projects your partners did in the last week. You can't use your own project.
-* Before doing a graph, think what you want to represent.
-
-## Some inspiration
-[Explore the Google Trends](http://pages.today/trends4)
-
-[Hans Roslings's vizs](http://b.link/ted52)
-
-[See an analysis about heart diseases](http://b.link/kaggle10)
-
-[Your body's data](http://body.media/ted6)
 
 
 
