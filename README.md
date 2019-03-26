@@ -21,3 +21,5 @@ Regarging the data, I've already found some datasets which I think I will be abl
 hipotesis: contaminacion, poblacion, etc. afecta? hipotesis y contrastarla...
 
 
+Añadir yo a mi main bbdd las filas con los animales q no esten (sacarlos de webs de top10 animales amenazados etc)
+
