@@ -15,7 +15,7 @@ The goal is to study and analyze how we humans are extinguishing entire species 
 
 I will try to answer not only these but also many other questions regarding this issue, and make everyone who sees my presentation aware of it.
 
-
+Regarging the data, I've already found some datasets which I think I will be able to work with. There are some csv files and some APIs as well.
 
 
 
