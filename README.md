@@ -18,5 +18,6 @@ I will try to answer not only these but also many other questions regarding this
 Regarging the data, I've already found some datasets which I think I will be able to work with. There are some csv files and some APIs as well.
 
 
+hipotesis: contaminacion, poblacion, etc. afecta? hipotesis y contrastarla...
 
 
